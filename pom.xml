@@ -66,21 +66,6 @@
 
     <repositories>
         <repository>
-            <id>public</id>
-            <url>http://dr-ob-nexus.vpbank.com.vn:8081/repository/maven-public</url>
-        </repository>
-
-        <repository>
-            <id>central</id>
-            <url>http://dr-ob-nexus.vpbank.com.vn:8081/repository/maven-central</url>
-        </repository>
-
-        <repository>
-            <id>common-lib</id>
-            <url>http://dr-ob-nexus.vpbank.com.vn:8081/repository/maven-common-lib</url>
-        </repository>
-
-        <repository>
             <id>alfresco-repository</id>
             <url>https://artifacts.alfresco.com/nexus/content/repositories/public/</url>
         </repository>
